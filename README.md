@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software Developer from India ❤</h3>
   
-A 20Y/O Software🌈 developer🎯 from India. I'm passionate about Software Development.I know that facing many technical problems can broaden our technical knowledge.
+A 21Y/O Software🌈 developer🎯 from India. I'm passionate about Software Development.I know that facing many technical problems can broaden our technical knowledge.
 I learn everyday about how to use the technology in the best way and I feel very satisfied while doing our work.
 
 
@@ -47,9 +47,8 @@ I learn everyday about how to use the technology in the best way and I feel very
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/soumen-maji-822389210/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_codingbuddy_/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/soumen.maji.7564)
+<a href="https://www.linkedin.com/in/soumen-maji-822389210/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a><a href="https://www.instagram.com/_codingbuddy_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/soumen.maji.7564"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 
 
